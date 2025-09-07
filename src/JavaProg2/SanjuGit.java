@@ -8,6 +8,8 @@ public class SanjuGit {
         System.out.println("adding from java programs users");
         System.out.println("adding from java programs users");
         System.out.println("adding from java programs users");
+        System.out.println("adding from newtogits");
+        System.out.println("adding from newtogits");
 
     }
 }
