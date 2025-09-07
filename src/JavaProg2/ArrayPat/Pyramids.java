@@ -73,7 +73,7 @@ public class Pyramids {
             for (int k = 0; k <= i; k++)
                 System.out.print("* ");
 
-            System.out.println("sanjuvekku");
+            System.out.println("reddy reddy");
 
 
         }

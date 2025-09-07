@@ -15,6 +15,6 @@ public class FindMaxInArray {
             }
 
         }
-        System.out.println(max + "maximun sound");
+        System.out.println(max + "maximun sounds in the arr" );
     }
 }
