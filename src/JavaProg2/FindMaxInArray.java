@@ -15,6 +15,10 @@ public class FindMaxInArray {
             }
 
         }
+<<<<<<< HEAD
         System.out.println(max + "maximun sounds in the arr" );
+=======
+        System.out.println(max + "maximun sound erli because i'm sanju");
+>>>>>>> a91d99bc87787b31d799ad2af69984373da5ee87
     }
 }
