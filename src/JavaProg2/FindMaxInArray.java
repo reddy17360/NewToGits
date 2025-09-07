@@ -4,7 +4,7 @@ public class FindMaxInArray {
 
     public static void main(String[] args){
         int[] arr={1,3,4,5,6,10,9};//array is an index based fixed number of homogeneous elements
-        //we assume any element in the array as max one
+        //we assume any element in the array as max onegi
         int max=arr[0];
         //now i have to compare this with all the other values present in array
         for(int i=0;i<arr.length;i++){
@@ -15,10 +15,10 @@ public class FindMaxInArray {
             }
 
         }
-<<<<<<< HEAD
+
         System.out.println(max + "maximun sounds in the arr" );
-=======
+
         System.out.println(max + "maximun sound erli because i'm sanju");
->>>>>>> a91d99bc87787b31d799ad2af69984373da5ee87
+
     }
 }
